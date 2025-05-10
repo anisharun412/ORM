@@ -50,6 +50,7 @@ class MovieAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 Name: Arunsamy D
+
 Reg no: 212224240016 / 24900591
 
 ![alt text](<Screenshot (82).png>)
